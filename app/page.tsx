@@ -59,7 +59,6 @@ export default function Home() {
             } else {
                 merged.push({
                     day: merged.length + 1,
-                    date: holiday.date,
                     imsak: "-",
                     gunes: "-",
                     ogle: "-",
