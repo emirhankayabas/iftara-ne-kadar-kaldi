@@ -1,0 +1,22 @@
+[
+    {
+        "date": "19 Mart 2026 Perşembe",
+        "holidayName": "Arefe Günü",
+        "isHoliday": true
+    },
+    {
+        "date": "20 Mart 2026 Cuma",
+        "holidayName": "Ramazan Bayramı 1. Gün",
+        "isHoliday": true
+    },
+    {
+        "date": "21 Mart 2026 Cumartesi",
+        "holidayName": "Ramazan Bayramı 2. Gün",
+        "isHoliday": true
+    },
+    {
+        "date": "22 Mart 2026 Pazar",
+        "holidayName": "Ramazan Bayramı 3. Gün",
+        "isHoliday": true
+    }
+]

@@ -1,0 +1,993 @@
+{
+  "istanbul": [
+    {
+      "day": 1,
+      "date": "19 Şubat 2026 Perşembe",
+      "imsak": "06:22",
+      "gunes": "07:47",
+      "ogle": "13:23",
+      "ikindi": "16:20",
+      "aksam": "18:49",
+      "yatsi": "20:09"
+    },
+    {
+      "day": 2,
+      "date": "20 Şubat 2026 Cuma",
+      "imsak": "06:20",
+      "gunes": "07:45",
+      "ogle": "13:23",
+      "ikindi": "16:21",
+      "aksam": "18:51",
+      "yatsi": "20:10"
+    },
+    {
+      "day": 3,
+      "date": "21 Şubat 2026 Cumartesi",
+      "imsak": "06:19",
+      "gunes": "07:44",
+      "ogle": "13:23",
+      "ikindi": "16:21",
+      "aksam": "18:52",
+      "yatsi": "20:11"
+    },
+    {
+      "day": 4,
+      "date": "22 Şubat 2026 Pazar",
+      "imsak": "06:18",
+      "gunes": "07:42",
+      "ogle": "13:23",
+      "ikindi": "16:22",
+      "aksam": "18:53",
+      "yatsi": "20:12"
+    },
+    {
+      "day": 5,
+      "date": "23 Şubat 2026 Pazartesi",
+      "imsak": "06:16",
+      "gunes": "07:41",
+      "ogle": "13:22",
+      "ikindi": "16:23",
+      "aksam": "18:54",
+      "yatsi": "20:13"
+    },
+    {
+      "day": 6,
+      "date": "24 Şubat 2026 Salı",
+      "imsak": "06:15",
+      "gunes": "07:39",
+      "ogle": "13:22",
+      "ikindi": "16:24",
+      "aksam": "18:55",
+      "yatsi": "20:15"
+    },
+    {
+      "day": 7,
+      "date": "25 Şubat 2026 Çarşamba",
+      "imsak": "06:13",
+      "gunes": "07:38",
+      "ogle": "13:22",
+      "ikindi": "16:25",
+      "aksam": "18:56",
+      "yatsi": "20:16"
+    },
+    {
+      "day": 8,
+      "date": "26 Şubat 2026 Perşembe",
+      "imsak": "06:12",
+      "gunes": "07:36",
+      "ogle": "13:22",
+      "ikindi": "16:26",
+      "aksam": "18:58",
+      "yatsi": "20:17"
+    },
+    {
+      "day": 9,
+      "date": "27 Şubat 2026 Cuma",
+      "imsak": "06:11",
+      "gunes": "07:35",
+      "ogle": "13:22",
+      "ikindi": "16:26",
+      "aksam": "18:59",
+      "yatsi": "20:18"
+    },
+    {
+      "day": 10,
+      "date": "28 Şubat 2026 Cumartesi",
+      "imsak": "06:09",
+      "gunes": "07:33",
+      "ogle": "13:22",
+      "ikindi": "16:27",
+      "aksam": "19:00",
+      "yatsi": "20:19"
+    },
+    {
+      "day": 11,
+      "date": "01 Mart 2026 Pazar",
+      "imsak": "06:08",
+      "gunes": "07:32",
+      "ogle": "13:22",
+      "ikindi": "16:28",
+      "aksam": "19:01",
+      "yatsi": "20:20"
+    },
+    {
+      "day": 12,
+      "date": "02 Mart 2026 Pazartesi",
+      "imsak": "06:06",
+      "gunes": "07:30",
+      "ogle": "13:21",
+      "ikindi": "16:29",
+      "aksam": "19:02",
+      "yatsi": "20:21"
+    },
+    {
+      "day": 13,
+      "date": "03 Mart 2026 Salı",
+      "imsak": "06:05",
+      "gunes": "07:29",
+      "ogle": "13:21",
+      "ikindi": "16:30",
+      "aksam": "19:03",
+      "yatsi": "20:22"
+    },
+    {
+      "day": 14,
+      "date": "04 Mart 2026 Çarşamba",
+      "imsak": "06:03",
+      "gunes": "07:27",
+      "ogle": "13:21",
+      "ikindi": "16:30",
+      "aksam": "19:05",
+      "yatsi": "20:24"
+    },
+    {
+      "day": 15,
+      "date": "05 Mart 2026 Perşembe",
+      "imsak": "06:01",
+      "gunes": "07:26",
+      "ogle": "13:21",
+      "ikindi": "16:31",
+      "aksam": "19:06",
+      "yatsi": "20:25"
+    },
+    {
+      "day": 16,
+      "date": "06 Mart 2026 Cuma",
+      "imsak": "06:00",
+      "gunes": "07:24",
+      "ogle": "13:20",
+      "ikindi": "16:32",
+      "aksam": "19:07",
+      "yatsi": "20:26"
+    },
+    {
+      "day": 17,
+      "date": "07 Mart 2026 Cumartesi",
+      "imsak": "05:58",
+      "gunes": "07:23",
+      "ogle": "13:20",
+      "ikindi": "16:32",
+      "aksam": "19:08",
+      "yatsi": "20:27"
+    },
+    {
+      "day": 18,
+      "date": "08 Mart 2026 Pazar",
+      "imsak": "05:57",
+      "gunes": "07:21",
+      "ogle": "13:20",
+      "ikindi": "16:33",
+      "aksam": "19:09",
+      "yatsi": "20:28"
+    },
+    {
+      "day": 19,
+      "date": "09 Mart 2026 Pazartesi",
+      "imsak": "05:55",
+      "gunes": "07:19",
+      "ogle": "13:20",
+      "ikindi": "16:34",
+      "aksam": "19:10",
+      "yatsi": "20:29"
+    },
+    {
+      "day": 20,
+      "date": "10 Mart 2026 Salı",
+      "imsak": "05:53",
+      "gunes": "07:18",
+      "ogle": "13:19",
+      "ikindi": "16:34",
+      "aksam": "19:11",
+      "yatsi": "20:30"
+    },
+    {
+      "day": 21,
+      "date": "11 Mart 2026 Çarşamba",
+      "imsak": "05:52",
+      "gunes": "07:16",
+      "ogle": "13:19",
+      "ikindi": "16:35",
+      "aksam": "19:12",
+      "yatsi": "20:31"
+    },
+    {
+      "day": 22,
+      "date": "12 Mart 2026 Perşembe",
+      "imsak": "05:50",
+      "gunes": "07:14",
+      "ogle": "13:19",
+      "ikindi": "16:36",
+      "aksam": "19:14",
+      "yatsi": "20:33"
+    },
+    {
+      "day": 23,
+      "date": "13 Mart 2026 Cuma",
+      "imsak": "05:48",
+      "gunes": "07:13",
+      "ogle": "13:19",
+      "ikindi": "16:36",
+      "aksam": "19:15",
+      "yatsi": "20:34"
+    },
+    {
+      "day": 24,
+      "date": "14 Mart 2026 Cumartesi",
+      "imsak": "05:47",
+      "gunes": "07:11",
+      "ogle": "13:18",
+      "ikindi": "16:37",
+      "aksam": "19:16",
+      "yatsi": "20:35"
+    },
+    {
+      "day": 25,
+      "date": "15 Mart 2026 Pazar",
+      "imsak": "05:45",
+      "gunes": "07:09",
+      "ogle": "13:18",
+      "ikindi": "16:38",
+      "aksam": "19:17",
+      "yatsi": "20:36"
+    },
+    {
+      "day": 26,
+      "date": "16 Mart 2026 Pazartesi",
+      "imsak": "05:43",
+      "gunes": "07:08",
+      "ogle": "13:18",
+      "ikindi": "16:38",
+      "aksam": "19:18",
+      "yatsi": "20:37"
+    },
+    {
+      "day": 27,
+      "date": "17 Mart 2026 Salı",
+      "imsak": "05:41",
+      "gunes": "07:06",
+      "ogle": "13:18",
+      "ikindi": "16:39",
+      "aksam": "19:19",
+      "yatsi": "20:38"
+    },
+    {
+      "day": 28,
+      "date": "18 Mart 2026 Çarşamba",
+      "imsak": "05:40",
+      "gunes": "07:04",
+      "ogle": "13:17",
+      "ikindi": "16:39",
+      "aksam": "19:20",
+      "yatsi": "20:40"
+    },
+    {
+      "day": 29,
+      "date": "19 Mart 2026 Perşembe",
+      "imsak": "05:38",
+      "gunes": "07:03",
+      "ogle": "13:17",
+      "ikindi": "16:40",
+      "aksam": "19:21",
+      "yatsi": "20:41",
+      "isHoliday": true,
+      "holidayName": "Arefe Günü"
+    },
+    {
+      "day": 30,
+      "date": "20 Mart 2026 Cuma",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 1. Gün"
+    },
+    {
+      "day": 31,
+      "date": "21 Mart 2026 Cumartesi",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 2. Gün"
+    },
+    {
+      "day": 32,
+      "date": "22 Mart 2026 Pazar",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 3. Gün"
+    }
+  ],
+  "ankara": [
+    {
+      "day": 1,
+      "date": "19 Şubat 2026 Perşembe",
+      "imsak": "06:06",
+      "gunes": "07:30",
+      "ogle": "13:07",
+      "ikindi": "16:06",
+      "aksam": "18:35",
+      "yatsi": "19:54"
+    },
+    {
+      "day": 2,
+      "date": "20 Şubat 2026 Cuma",
+      "imsak": "06:05",
+      "gunes": "07:28",
+      "ogle": "13:07",
+      "ikindi": "16:07",
+      "aksam": "18:36",
+      "yatsi": "19:55"
+    },
+    {
+      "day": 3,
+      "date": "21 Şubat 2026 Cumartesi",
+      "imsak": "06:04",
+      "gunes": "07:27",
+      "ogle": "13:07",
+      "ikindi": "16:08",
+      "aksam": "18:38",
+      "yatsi": "19:56"
+    },
+    {
+      "day": 4,
+      "date": "22 Şubat 2026 Pazar",
+      "imsak": "06:02",
+      "gunes": "07:26",
+      "ogle": "13:07",
+      "ikindi": "16:08",
+      "aksam": "18:39",
+      "yatsi": "19:57"
+    },
+    {
+      "day": 5,
+      "date": "23 Şubat 2026 Pazartesi",
+      "imsak": "06:01",
+      "gunes": "07:24",
+      "ogle": "13:07",
+      "ikindi": "16:09",
+      "aksam": "18:40",
+      "yatsi": "19:58"
+    },
+    {
+      "day": 6,
+      "date": "24 Şubat 2026 Salı",
+      "imsak": "06:00",
+      "gunes": "07:23",
+      "ogle": "13:07",
+      "ikindi": "16:10",
+      "aksam": "18:41",
+      "yatsi": "19:59"
+    },
+    {
+      "day": 7,
+      "date": "25 Şubat 2026 Çarşamba",
+      "imsak": "05:58",
+      "gunes": "07:21",
+      "ogle": "13:07",
+      "ikindi": "16:11",
+      "aksam": "18:42",
+      "yatsi": "20:00"
+    },
+    {
+      "day": 8,
+      "date": "26 Şubat 2026 Perşembe",
+      "imsak": "05:57",
+      "gunes": "07:20",
+      "ogle": "13:07",
+      "ikindi": "16:12",
+      "aksam": "18:43",
+      "yatsi": "20:01"
+    },
+    {
+      "day": 9,
+      "date": "27 Şubat 2026 Cuma",
+      "imsak": "05:56",
+      "gunes": "07:18",
+      "ogle": "13:06",
+      "ikindi": "16:12",
+      "aksam": "18:44",
+      "yatsi": "20:02"
+    },
+    {
+      "day": 10,
+      "date": "28 Şubat 2026 Cumartesi",
+      "imsak": "05:54",
+      "gunes": "07:17",
+      "ogle": "13:06",
+      "ikindi": "16:13",
+      "aksam": "18:45",
+      "yatsi": "20:03"
+    },
+    {
+      "day": 11,
+      "date": "01 Mart 2026 Pazar",
+      "imsak": "05:53",
+      "gunes": "07:15",
+      "ogle": "13:06",
+      "ikindi": "16:14",
+      "aksam": "18:47",
+      "yatsi": "20:04"
+    },
+    {
+      "day": 12,
+      "date": "02 Mart 2026 Pazartesi",
+      "imsak": "05:51",
+      "gunes": "07:14",
+      "ogle": "13:06",
+      "ikindi": "16:15",
+      "aksam": "18:48",
+      "yatsi": "20:05"
+    },
+    {
+      "day": 13,
+      "date": "03 Mart 2026 Salı",
+      "imsak": "05:50",
+      "gunes": "07:13",
+      "ogle": "13:06",
+      "ikindi": "16:15",
+      "aksam": "18:49",
+      "yatsi": "20:06"
+    },
+    {
+      "day": 14,
+      "date": "04 Mart 2026 Çarşamba",
+      "imsak": "05:48",
+      "gunes": "07:11",
+      "ogle": "13:05",
+      "ikindi": "16:16",
+      "aksam": "18:50",
+      "yatsi": "20:07"
+    },
+    {
+      "day": 15,
+      "date": "05 Mart 2026 Perşembe",
+      "imsak": "05:47",
+      "gunes": "07:09",
+      "ogle": "13:05",
+      "ikindi": "16:17",
+      "aksam": "18:51",
+      "yatsi": "20:08"
+    },
+    {
+      "day": 16,
+      "date": "06 Mart 2026 Cuma",
+      "imsak": "05:45",
+      "gunes": "07:08",
+      "ogle": "13:05",
+      "ikindi": "16:17",
+      "aksam": "18:52",
+      "yatsi": "20:10"
+    },
+    {
+      "day": 17,
+      "date": "07 Mart 2026 Cumartesi",
+      "imsak": "05:44",
+      "gunes": "07:06",
+      "ogle": "13:05",
+      "ikindi": "16:18",
+      "aksam": "18:53",
+      "yatsi": "20:11"
+    },
+    {
+      "day": 18,
+      "date": "08 Mart 2026 Pazar",
+      "imsak": "05:42",
+      "gunes": "07:05",
+      "ogle": "13:04",
+      "ikindi": "16:19",
+      "aksam": "18:54",
+      "yatsi": "20:12"
+    },
+    {
+      "day": 19,
+      "date": "09 Mart 2026 Pazartesi",
+      "imsak": "05:40",
+      "gunes": "07:03",
+      "ogle": "13:04",
+      "ikindi": "16:19",
+      "aksam": "18:55",
+      "yatsi": "20:13"
+    },
+    {
+      "day": 20,
+      "date": "10 Mart 2026 Salı",
+      "imsak": "05:39",
+      "gunes": "07:02",
+      "ogle": "13:04",
+      "ikindi": "16:20",
+      "aksam": "18:56",
+      "yatsi": "20:14"
+    },
+    {
+      "day": 21,
+      "date": "11 Mart 2026 Çarşamba",
+      "imsak": "05:37",
+      "gunes": "07:00",
+      "ogle": "13:04",
+      "ikindi": "16:21",
+      "aksam": "18:57",
+      "yatsi": "20:15"
+    },
+    {
+      "day": 22,
+      "date": "12 Mart 2026 Perşembe",
+      "imsak": "05:36",
+      "gunes": "06:59",
+      "ogle": "13:03",
+      "ikindi": "16:21",
+      "aksam": "18:58",
+      "yatsi": "20:16"
+    },
+    {
+      "day": 23,
+      "date": "13 Mart 2026 Cuma",
+      "imsak": "05:34",
+      "gunes": "06:57",
+      "ogle": "13:03",
+      "ikindi": "16:22",
+      "aksam": "18:59",
+      "yatsi": "20:17"
+    },
+    {
+      "day": 24,
+      "date": "14 Mart 2026 Cumartesi",
+      "imsak": "05:32",
+      "gunes": "06:55",
+      "ogle": "13:03",
+      "ikindi": "16:22",
+      "aksam": "19:01",
+      "yatsi": "20:18"
+    },
+    {
+      "day": 25,
+      "date": "15 Mart 2026 Pazar",
+      "imsak": "05:31",
+      "gunes": "06:54",
+      "ogle": "13:03",
+      "ikindi": "16:23",
+      "aksam": "19:02",
+      "yatsi": "20:19"
+    },
+    {
+      "day": 26,
+      "date": "16 Mart 2026 Pazartesi",
+      "imsak": "05:29",
+      "gunes": "06:52",
+      "ogle": "13:02",
+      "ikindi": "16:23",
+      "aksam": "19:03",
+      "yatsi": "20:21"
+    },
+    {
+      "day": 27,
+      "date": "17 Mart 2026 Salı",
+      "imsak": "05:27",
+      "gunes": "06:51",
+      "ogle": "13:02",
+      "ikindi": "16:24",
+      "aksam": "19:04",
+      "yatsi": "20:22"
+    },
+    {
+      "day": 28,
+      "date": "18 Mart 2026 Çarşamba",
+      "imsak": "05:25",
+      "gunes": "06:49",
+      "ogle": "13:02",
+      "ikindi": "16:24",
+      "aksam": "19:05",
+      "yatsi": "20:23"
+    },
+    {
+      "day": 29,
+      "date": "19 Mart 2026 Perşembe",
+      "imsak": "05:24",
+      "gunes": "06:47",
+      "ogle": "13:02",
+      "ikindi": "16:25",
+      "aksam": "19:06",
+      "yatsi": "20:24",
+      "isHoliday": true,
+      "holidayName": "Arefe Günü"
+    },
+    {
+      "day": 30,
+      "date": "20 Mart 2026 Cuma",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 1. Gün"
+    },
+    {
+      "day": 31,
+      "date": "21 Mart 2026 Cumartesi",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 2. Gün"
+    },
+    {
+      "day": 32,
+      "date": "22 Mart 2026 Pazar",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 3. Gün"
+    }
+  ],
+  "izmir": [
+    {
+      "day": 1,
+      "date": "19 Şubat 2026 Perşembe",
+      "imsak": "06:29",
+      "gunes": "07:51",
+      "ogle": "13:30",
+      "ikindi": "16:31",
+      "aksam": "19:00",
+      "yatsi": "20:16"
+    },
+    {
+      "day": 2,
+      "date": "20 Şubat 2026 Cuma",
+      "imsak": "06:28",
+      "gunes": "07:49",
+      "ogle": "13:30",
+      "ikindi": "16:32",
+      "aksam": "19:01",
+      "yatsi": "20:17"
+    },
+    {
+      "day": 3,
+      "date": "21 Şubat 2026 Cumartesi",
+      "imsak": "06:27",
+      "gunes": "07:48",
+      "ogle": "13:30",
+      "ikindi": "16:33",
+      "aksam": "19:02",
+      "yatsi": "20:18"
+    },
+    {
+      "day": 4,
+      "date": "22 Şubat 2026 Pazar",
+      "imsak": "06:25",
+      "gunes": "07:47",
+      "ogle": "13:30",
+      "ikindi": "16:33",
+      "aksam": "19:03",
+      "yatsi": "20:19"
+    },
+    {
+      "day": 5,
+      "date": "23 Şubat 2026 Pazartesi",
+      "imsak": "06:24",
+      "gunes": "07:45",
+      "ogle": "13:30",
+      "ikindi": "16:34",
+      "aksam": "19:04",
+      "yatsi": "20:20"
+    },
+    {
+      "day": 6,
+      "date": "24 Şubat 2026 Salı",
+      "imsak": "06:23",
+      "gunes": "07:44",
+      "ogle": "13:30",
+      "ikindi": "16:35",
+      "aksam": "19:05",
+      "yatsi": "20:21"
+    },
+    {
+      "day": 7,
+      "date": "25 Şubat 2026 Çarşamba",
+      "imsak": "06:22",
+      "gunes": "07:43",
+      "ogle": "13:30",
+      "ikindi": "16:36",
+      "aksam": "19:06",
+      "yatsi": "20:22"
+    },
+    {
+      "day": 8,
+      "date": "26 Şubat 2026 Perşembe",
+      "imsak": "06:20",
+      "gunes": "07:41",
+      "ogle": "13:29",
+      "ikindi": "16:36",
+      "aksam": "19:08",
+      "yatsi": "20:23"
+    },
+    {
+      "day": 9,
+      "date": "27 Şubat 2026 Cuma",
+      "imsak": "06:19",
+      "gunes": "07:40",
+      "ogle": "13:29",
+      "ikindi": "16:37",
+      "aksam": "19:09",
+      "yatsi": "20:24"
+    },
+    {
+      "day": 10,
+      "date": "28 Şubat 2026 Cumartesi",
+      "imsak": "06:18",
+      "gunes": "07:38",
+      "ogle": "13:29",
+      "ikindi": "16:38",
+      "aksam": "19:10",
+      "yatsi": "20:25"
+    },
+    {
+      "day": 11,
+      "date": "01 Mart 2026 Pazar",
+      "imsak": "06:16",
+      "gunes": "07:37",
+      "ogle": "13:29",
+      "ikindi": "16:38",
+      "aksam": "19:11",
+      "yatsi": "20:26"
+    },
+    {
+      "day": 12,
+      "date": "02 Mart 2026 Pazartesi",
+      "imsak": "06:15",
+      "gunes": "07:36",
+      "ogle": "13:29",
+      "ikindi": "16:39",
+      "aksam": "19:12",
+      "yatsi": "20:27"
+    },
+    {
+      "day": 13,
+      "date": "03 Mart 2026 Salı",
+      "imsak": "06:13",
+      "gunes": "07:34",
+      "ogle": "13:28",
+      "ikindi": "16:40",
+      "aksam": "19:13",
+      "yatsi": "20:29"
+    },
+    {
+      "day": 14,
+      "date": "04 Mart 2026 Çarşamba",
+      "imsak": "06:12",
+      "gunes": "07:33",
+      "ogle": "13:28",
+      "ikindi": "16:40",
+      "aksam": "19:14",
+      "yatsi": "20:30"
+    },
+    {
+      "day": 15,
+      "date": "05 Mart 2026 Perşembe",
+      "imsak": "06:10",
+      "gunes": "07:31",
+      "ogle": "13:28",
+      "ikindi": "16:41",
+      "aksam": "19:15",
+      "yatsi": "20:31"
+    },
+    {
+      "day": 16,
+      "date": "06 Mart 2026 Cuma",
+      "imsak": "06:09",
+      "gunes": "07:30",
+      "ogle": "13:28",
+      "ikindi": "16:42",
+      "aksam": "19:16",
+      "yatsi": "20:32"
+    },
+    {
+      "day": 17,
+      "date": "07 Mart 2026 Cumartesi",
+      "imsak": "06:08",
+      "gunes": "07:28",
+      "ogle": "13:28",
+      "ikindi": "16:42",
+      "aksam": "19:17",
+      "yatsi": "20:33"
+    },
+    {
+      "day": 18,
+      "date": "08 Mart 2026 Pazar",
+      "imsak": "06:06",
+      "gunes": "07:27",
+      "ogle": "13:27",
+      "ikindi": "16:43",
+      "aksam": "19:18",
+      "yatsi": "20:34"
+    },
+    {
+      "day": 19,
+      "date": "09 Mart 2026 Pazartesi",
+      "imsak": "06:04",
+      "gunes": "07:25",
+      "ogle": "13:27",
+      "ikindi": "16:43",
+      "aksam": "19:19",
+      "yatsi": "20:35"
+    },
+    {
+      "day": 20,
+      "date": "10 Mart 2026 Salı",
+      "imsak": "06:03",
+      "gunes": "07:24",
+      "ogle": "13:27",
+      "ikindi": "16:44",
+      "aksam": "19:20",
+      "yatsi": "20:36"
+    },
+    {
+      "day": 21,
+      "date": "11 Mart 2026 Çarşamba",
+      "imsak": "06:01",
+      "gunes": "07:22",
+      "ogle": "13:27",
+      "ikindi": "16:44",
+      "aksam": "19:21",
+      "yatsi": "20:37"
+    },
+    {
+      "day": 22,
+      "date": "12 Mart 2026 Perşembe",
+      "imsak": "06:00",
+      "gunes": "07:21",
+      "ogle": "13:26",
+      "ikindi": "16:45",
+      "aksam": "19:22",
+      "yatsi": "20:38"
+    },
+    {
+      "day": 23,
+      "date": "13 Mart 2026 Cuma",
+      "imsak": "05:58",
+      "gunes": "07:19",
+      "ogle": "13:26",
+      "ikindi": "16:46",
+      "aksam": "19:23",
+      "yatsi": "20:39"
+    },
+    {
+      "day": 24,
+      "date": "14 Mart 2026 Cumartesi",
+      "imsak": "05:57",
+      "gunes": "07:18",
+      "ogle": "13:26",
+      "ikindi": "16:46",
+      "aksam": "19:24",
+      "yatsi": "20:40"
+    },
+    {
+      "day": 25,
+      "date": "15 Mart 2026 Pazar",
+      "imsak": "05:55",
+      "gunes": "07:16",
+      "ogle": "13:25",
+      "ikindi": "16:47",
+      "aksam": "19:25",
+      "yatsi": "20:41"
+    },
+    {
+      "day": 26,
+      "date": "16 Mart 2026 Pazartesi",
+      "imsak": "05:54",
+      "gunes": "07:15",
+      "ogle": "13:25",
+      "ikindi": "16:47",
+      "aksam": "19:26",
+      "yatsi": "20:42"
+    },
+    {
+      "day": 27,
+      "date": "17 Mart 2026 Salı",
+      "imsak": "05:52",
+      "gunes": "07:13",
+      "ogle": "13:25",
+      "icon": "Sun",
+      "ikindi": "16:48",
+      "aksam": "19:27",
+      "yatsi": "20:43"
+    },
+    {
+      "day": 28,
+      "date": "18 Mart 2026 Çarşamba",
+      "imsak": "05:50",
+      "gunes": "07:12",
+      "ogle": "13:25",
+      "ikindi": "16:48",
+      "aksam": "19:28",
+      "yatsi": "20:44"
+    },
+    {
+      "day": 29,
+      "date": "19 Mart 2026 Perşembe",
+      "imsak": "05:49",
+      "gunes": "07:10",
+      "ogle": "13:24",
+      "ikindi": "16:48",
+      "aksam": "19:29",
+      "yatsi": "20:45",
+      "isHoliday": true,
+      "holidayName": "Arefe Günü"
+    },
+    {
+      "day": 30,
+      "date": "20 Mart 2026 Cuma",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 1. Gün"
+    },
+    {
+      "day": 31,
+      "date": "21 Mart 2026 Cumartesi",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 2. Gün"
+    },
+    {
+      "day": 32,
+      "date": "22 Mart 2026 Pazar",
+      "imsak": "-",
+      "gunes": "-",
+      "ogle": "-",
+      "ikindi": "-",
+      "aksam": "-",
+      "yatsi": "-",
+      "isHoliday": true,
+      "holidayName": "Ramazan Bayramı 3. Gün"
+    }
+  ]
+}
